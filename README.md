@@ -1,2 +1,2 @@
-# landing-page-batabit
-Mobile first Landing Page
+# Landing Page
+Mobile first using best practices
